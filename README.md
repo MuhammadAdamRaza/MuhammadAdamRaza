@@ -45,21 +45,14 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ### 🛠️ Tech Stack & Skills
 
-- **Backend Architecture:** 
-  ![Laravel](https://shields.io) ![Python](https://shields.io) ![Flask](https://shields.io) ![Django](https://shields.io)
-- **Frontend Development:** 
-  ![React](https://shields.io) ![Vue.js](https://shields.io) Bradley ![JavaScript](https://shields.io)
-- **Automation & DevOps:**
-  ![n8n](https://shields.io) ![Nginx](https://shields.io) ![Git](https://shields.io)
-- **Databases:** 
-  ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
-
----
-
+* 🟥 **Backend Architecture:** PHP (Laravel) | Python (Flask / Django)
+* 🟦 **Frontend Development:** React.js | Vue.js | JavaScript (ES6+) | HTML5 / CSS3
+* 🟧 **Automation & DevOps:** n8n Workflows | Nginx | Git & GitHub
+* 🟫 **Database Engineering:** MySQL | PostgreSQL | MongoDB
 
 ---
 
 ### 📬 Let's Connect!
 
-- 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
-- 📍 **Location:** Lahore, Punjab, Pakistan 🇵🇰
+* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
+* 📍 **Location:** Lahore, Punjab, Pakistan 🇵🇰
