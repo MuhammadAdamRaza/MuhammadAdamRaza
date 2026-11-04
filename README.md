@@ -56,12 +56,6 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ---
 
-### 📊 GitHub Live Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Adam's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
 
 ---
 
