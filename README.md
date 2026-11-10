@@ -54,5 +54,5 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ###  Let's Connect!
 
-* **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn Profile:** [://linkedin.com](https://www.linkedin.com/in/muhammad-adam-raza-380796312/)
 * **Location:** Lahore, Punjab, Pakistan 🇵🇰
