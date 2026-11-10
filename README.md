@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Adam Raza! 👋
+# Hi there, I'm Muhammad Adam Raza! 
 
 ### Full Stack Developer | PHP (Laravel) • Python (Flask/Django) • React.js • Vue.js
 
@@ -6,25 +6,25 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-🚀 **Software Engineer** @ **CustomBoxline** *(Nov 2026 - Present)*
+ **Software Engineer** @ **CustomBoxline** *(Nov 2026 - Present)*
 - Developing and maintaining complex web architectures leveraging **PHP (Laravel)** backend engines and workflows.
 - Designing responsive, interactive, and heavy-duty frontend UI/UX interfaces using **Vue.js**.
 - Managing continuous integration and handling clean feature rollouts for production environments.
 
-⚙️ **Associate Software Engineer** @ **SoftOrbix** *(Mar 2026 - Nov 2026)*
+ **Associate Software Engineer** @ **SoftOrbix** *(Mar 2026 - Nov 2026)*
 - Built web apps using **React/Vue** for frontends and **Python (Flask/Django)** for backend architecture.
 - Designed secure RESTful APIs and database features using **MySQL, PostgreSQL, and MongoDB**.
 - Designed and implemented high-efficiency automation workflows and integrations utilizing **n8n**.
 - Deployed applications using **Nginx** and managed version control seamlessly via Git and GitHub.
 
-💻 **Frontend Developer** @ **DevelopersHub Corporation©** *(Jan 2026 - Mar 2026)*
+ **Frontend Developer** @ **DevelopersHub Corporation©** *(Jan 2026 - Mar 2026)*
 - **Frontend UI Development:** Engineered responsive, user-friendly interfaces using React.js, Vue.js, JavaScript, HTML, and CSS.
 - **Performance Optimization:** Improved application usability, cross-browser compatibility, and client-side performance.
 - **Modern Frontend Practices:** Applied component-based design, API integrations, and efficient debugging strategies.
 
-🏢 **Full Stack Developer (Python Flask & React)** @ **Punjab Information Technology Board (PITB)** *(Oct 2025 - Jan 2026)*
+**Full Stack Developer (Python Flask & React)** @ **Punjab Information Technology Board (PITB)** *(Oct 2025 - Jan 2026)*
 - Built scalable full-stack applications using React.js/Vue.js for frontends and Python (Flask) for backends.
 - Developed secure RESTful APIs featuring robust authentication and database-driven functionalities.
 - Managed relational database architectures and optimized queries utilizing **PostgreSQL**.
@@ -32,18 +32,18 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ---
 
-### 🎓 Education
+### Education
 
-🏛️ **University of Management and Technology (UMT), Lahore**
+**University of Management and Technology (UMT), Lahore**
 - *Bachelor's degree, Information Technology* (Sep 2021 – Oct 2025)
 - Core: C++, Web Development, Database Management, and Software Engineering.
 
-🏫 **KIPS College**
+**KIPS College**
 - *ICS, Computer Science* (2019 – 2021)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 * 🟥 **Backend Architecture:** PHP (Laravel) | Python (Flask / Django)
 * 🟦 **Frontend Development:** React.js | Vue.js | JavaScript (ES6+) | HTML5 / CSS3
@@ -52,7 +52,7 @@ I am a professional **Full Stack Developer** specializing in building highly sca
 
 ---
 
-### 📬 Let's Connect!
+###  Let's Connect!
 
-* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
-* 📍 **Location:** Lahore, Punjab, Pakistan 🇵🇰
+* **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
+* **Location:** Lahore, Punjab, Pakistan 🇵🇰
